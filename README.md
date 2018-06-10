@@ -1,14 +1,14 @@
 ## Continuous user authentication in web applications through behavioral biometrics
 
-This is the code I used and the service I created for the purpose of my under-graduate thesis in the Department of Electrical and Computer Engineering in Aristotle University of Thessaloniki.
+This is the thesis I conducted for acquiring my under-graduate degree in the Department of Electrical and Computer Engineering in Aristotle University of Thessaloniki.
 
 PM me if you'd like to experiment with the dataset of keystrokes collected from real users, or if you'd like to read the whole thesis report (... in greek :)). 
 
-### Repo Structure
+### Repo-Links Structure
 
-* **continuous-authentication-service**: This is the main service created, which provides a continuous authentication system using keystroke dynamics in order to authenticate users with their typing pattern.
-* **continuous-authentication-website**: In order to collect keystrokes from real users and to apply this authentication system on them, a website was created which provides various user scenarios where a user is required to type something.
-* **continuous-authentication-experiments**: This is the final chapter of this work. It includes pattern recognition techniques in order to measure the performance (FAR, FRR, EER etc) of the system. Such techniques are Anomaly/Outlier/Novelty detection, Classification with 1vs1 reduction & majority vote etc. 
+* [continuous-authentication-service](https://github.com/tasoskakour/continuous-authentication-service): This is the main service created, which provides a continuous authentication system using keystroke dynamics in order to authenticate users with their typing pattern.
+* [continuous-authentication-website](https://github.com/tasoskakour/continuous-authentication-website): In order to collect keystrokes from real users and to apply this authentication system on them, a website was created which provides various user scenarios where a user is required to type something.
+* [continuous-authentication-experiments](https://github.com/tasoskakour/continuous-authentication-experiments): This is the final chapter of this work. It includes pattern recognition techniques in order to measure the performance (FAR, FRR, EER etc) of the system. Such techniques are Anomaly/Outlier/Novelty detection, Classification with 1vs1 reduction & majority vote etc. 
 
 ### Thesis Abstract
 
